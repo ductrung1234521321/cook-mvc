@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Env
+.env
+.env.*
+
+# Firebase secrets
+*-firebase-adminsdk-*.json
+google-services.json
+GoogleService-Info.plist
+
+# MinIO
+minio-data/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
